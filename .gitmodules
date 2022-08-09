@@ -1,0 +1,7 @@
+[submodule "foreslab/themes/syna"]
+	path = foreslab/themes/syna
+	url = https://git.okkur.org/syna
+[submodule "foreslab/public"]
+	path = foreslab/public
+	url = https://github.com/foreslab/foreslab.github.io.git
+	branch = main
